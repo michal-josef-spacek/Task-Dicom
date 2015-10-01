@@ -26,6 +26,9 @@ SEE ALSO
     Dicom::DCMTK::DCMDump::Get
         Perl Class for getting DICOM DCMTK dcmdump output for DICOM file.
 
+    Dicom::DCMTK::DCMQRSCP::Config
+        Perl class for reading/writing DCMTK dcmqrscp configuration file.
+
     Dicom::File::Detect
         Detect DICOM file through magic string.
 

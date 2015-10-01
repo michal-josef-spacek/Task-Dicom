@@ -55,6 +55,10 @@ dump the content of a dicom file to stdout
 
 Perl Class for getting DICOM DCMTK dcmdump output for DICOM file.
 
+=item L<Dicom::DCMTK::DCMQRSCP::Config>
+
+Perl class for reading/writing DCMTK dcmqrscp configuration file.
+
 =item L<Dicom::File::Detect>
 
 Detect DICOM file through magic string.
