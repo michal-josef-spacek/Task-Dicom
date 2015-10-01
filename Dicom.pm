@@ -51,6 +51,10 @@ A module to anonymize Dicom files
 
 dump the content of a dicom file to stdout
 
+=item L<Dicom::DCMTK::DCMDump::Get>
+
+Perl Class for getting DICOM DCMTK dcmdump output for DICOM file.
+
 =item L<Dicom::File::Detect>
 
 Detect DICOM file through magic string.

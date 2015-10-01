@@ -19,6 +19,7 @@ name 'Task-Dicom';
 readme_from 'Dicom.pm';
 recursive_author_tests('xt');
 requires 'DicomPack::IO::DicomWriter' => 0.95;
+requires 'Dicom::DCMTK::DCMDump::Get' => 0.02;
 requires 'Dicom::File::Detect' => 0.02;
 requires 'File::Find::Rule::Dicom' => 0.04;
 requires 'perl' => '5.6.0';
