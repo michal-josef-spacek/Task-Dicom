@@ -22,7 +22,7 @@ no_index:
     - t
     - xt
 requires:
-  Dicom::DCMTK::DCMDump::Get: 0.02
+  Dicom::DCMTK::DCMDump::Get: 0.03
   Dicom::DCMTK::DCMQRSCP::Config: 0.03
   Dicom::File::Detect: 0.02
   DicomPack::IO::DicomWriter: 0.95
