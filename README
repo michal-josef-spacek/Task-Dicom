@@ -1,5 +1,5 @@
 NAME
-    Task::Dicom - Install the Lego modules.
+    Task::Dicom - Install the Dicom modules.
 
 SYNOPSIS
      cpanm Task::Dicom

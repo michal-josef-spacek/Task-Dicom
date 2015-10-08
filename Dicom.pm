@@ -17,7 +17,7 @@ __END__
 
 =head1 NAME
 
-Task::Dicom - Install the Lego modules.
+Task::Dicom - Install the Dicom modules.
 
 =head1 SYNOPSIS
 
