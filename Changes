@@ -1,5 +1,6 @@
 0.06
  - Fix NAME section in doc.
+ - Update Dicom::DCMTK::DCMQRSCP::Config to 0.03 version.
 
 0.05 2015-10-01T15:02:30+02:00
  - Add Dicom::DCMTK::DCMDump::Get in 0.02 version.
