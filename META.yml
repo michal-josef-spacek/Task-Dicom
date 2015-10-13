@@ -24,7 +24,7 @@ no_index:
 requires:
   Dicom::DCMTK::DCMDump::Get: 0.03
   Dicom::DCMTK::DCMQRSCP::Config: 0.03
-  Dicom::File::Detect: 0.02
+  Dicom::File::Detect: 0.03
   DicomPack::IO::DicomWriter: 0.95
   File::Find::Rule::Dicom: 0.04
   perl: 5.6.0
