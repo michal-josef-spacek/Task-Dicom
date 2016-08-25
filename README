@@ -32,6 +32,9 @@ SEE ALSO
     Dicom::File::Detect
         Detect DICOM file through magic string.
 
+    Dicom::UID::Generator
+        DICOM UID generator.
+
     File::Find::Rule::Dicom
         Common rules for searching for DICOM things.
 

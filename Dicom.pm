@@ -63,6 +63,10 @@ Perl class for reading/writing DCMTK dcmqrscp configuration file.
 
 Detect DICOM file through magic string.
 
+=item L<Dicom::UID::Generator>
+
+DICOM UID generator.
+
 =item L<File::Find::Rule::Dicom>
 
 Common rules for searching for DICOM things.
