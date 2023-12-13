@@ -30,8 +30,8 @@ requires:
   File::Find::Rule::Dicom: 0.04
   perl: 5.6.0
 resources:
-  bugtracker: https://github.com/tupinek/Task-Dicom/issues
-  homepage: https://github.com/tupinek/Task-Dicom
+  bugtracker: https://github.com/michal-josef-spacek/Task-Dicom/issues
+  homepage: https://github.com/michal-josef-spacek/Task-Dicom
   license: http://opensource.org/licenses/bsd-license.php
-  repository: git://github.com/tupinek/Task-Dicom
+  repository: git://github.com/michal-josef-spacek/Task-Dicom
 version: '0.08'

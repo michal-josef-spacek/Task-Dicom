@@ -73,7 +73,7 @@ Common rules for searching for DICOM things.
 
 =head1 REPOSITORY
 
-L<https://github.com/tupinek/Task-Dicom>
+L<https://github.com/michal-josef-spacek/Task-Dicom>
 
 =head1 AUTHOR
 
