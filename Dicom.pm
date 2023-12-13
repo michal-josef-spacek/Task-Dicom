@@ -1,10 +1,8 @@
 package Task::Dicom;
 
-# Pragmas.
 use strict;
 use warnings;
 
-# Version.
 our $VERSION = 0.08;
 
 1;
