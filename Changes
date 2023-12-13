@@ -1,6 +1,7 @@
 0.08
  - Fix Makefile.PL fails with no '.' in @INC.
  - Move bugtracker to github.
+ - Improve LICENSE AND COPYRIGHT section in doc.
  - Update Module::Install to 1.21 version.
  - Update author github username.
  - Update author name.
