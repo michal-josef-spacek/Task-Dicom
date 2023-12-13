@@ -30,7 +30,7 @@ requires:
   File::Find::Rule::Dicom: 0.04
   perl: 5.6.0
 resources:
-  bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Task-Dicom
+  bugtracker: https://github.com/tupinek/Task-Dicom/issues
   homepage: https://github.com/tupinek/Task-Dicom
   license: http://opensource.org/licenses/bsd-license.php
   repository: git://github.com/tupinek/Task-Dicom
