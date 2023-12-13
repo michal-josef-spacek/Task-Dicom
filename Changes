@@ -1,4 +1,4 @@
-0.08
+0.08 2023-12-13T17:27:43+01:00
  - Fix Makefile.PL fails with no '.' in @INC.
  - Move bugtracker to github.
  - Improve LICENSE AND COPYRIGHT section in doc.
